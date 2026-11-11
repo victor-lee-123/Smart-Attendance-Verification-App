@@ -5,6 +5,9 @@ The application verifies student attendance using **QR session validation, geofe
 
 ---
 
+# Overview
+[![Architecture diagram of victor-lee-123/smart-attendance-verification-app](https://gitdiagram.com/victor-lee-123/smart-attendance-verification-app/diagram.png)](https://gitdiagram.com/victor-lee-123/smart-attendance-verification-app?utm_source=readme&utm_medium=picture)
+
 ## 🚀 Features
 
 ### 🔐 Local Authentication (Offline)
@@ -142,4 +145,3 @@ Future extension: remote synchronization via Firebase or backend API.
 ## 📜 License
 
 For academic and educational use. Created by students from Singapore Institute of Technology (SIT). All Rights Reserved 2026.
-
