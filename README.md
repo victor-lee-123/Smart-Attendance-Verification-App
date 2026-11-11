@@ -148,8 +148,8 @@ For academic and educational use. Created by students from Singapore Institute o
 
 ## Special Thanks
 
-Edwin Leow Kian Sheng
-Belinda Chua Jia Xuan
-Joel Teo
-Dylan Lau Chiak Hong
-Nurul Hannah Nur Kamal
+- Edwin Leow Kian Sheng
+- Belinda Chua Jia Xuan
+- Joel Teo
+- Dylan Lau Chiak Hong
+- Nurul Hannah Nur Kamal
